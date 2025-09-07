@@ -25,7 +25,6 @@ Fully configurable with support for custom fonts, colors, transparency profiles,
 ---
 
 ![Preview](Preview1.gif)
-
 ---
 
 ## Configuration

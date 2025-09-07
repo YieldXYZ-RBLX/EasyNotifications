@@ -23,7 +23,9 @@ Fully configurable with support for custom fonts, colors, transparency profiles,
 - **Notification Types**: Predefined colors for Info, Success, Warning, Error
 
 ---
-[Watch Preview1.mkv](./Preview1.mkv)
+
+![Preview](Preview1.gif)
+
 ---
 
 ## Configuration
